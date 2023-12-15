@@ -1,1 +1,0 @@
-# create-next-sample-app
